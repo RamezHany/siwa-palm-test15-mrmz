@@ -3,7 +3,7 @@
 import { useState } from "react"
 import { useTranslations } from "next-intl"
 import { motion } from "framer-motion"
-import { Check, Loader2 } from "lucide-react"
+import { Check, LoaderCircle } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -189,7 +189,7 @@ export default function OrderForm({ productName, quantity, onClose }) {
             >
               {isSubmitting ? (
                 <>
-                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                  <LoaderCircle className="mr-2 h-4 w-4 animate-spin" />
                   {t("submitting")}
                 </>
               ) : (
