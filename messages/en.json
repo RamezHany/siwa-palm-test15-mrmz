@@ -1,0 +1,171 @@
+{
+  "Home": {
+    "logoAlt": "Siwa Palm Logo",
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About",
+      "contact": "Contact",
+      "gallery": "Gallery"
+    },
+    "orderNow": "Order Now",
+    "hero": {
+      "title1": "Premium Dates from",
+      "title2": "Siwa Oasis",
+      "subtitle": "A leading company in growing and producing the finest dates since 2001, offering an exceptional tasting experience from the heart of the Egyptian desert",
+      "browseProducts": "Browse Products",
+      "learnMore": "Learn More"
+    },
+    "products": {
+      "title": "Our Premium Products",
+      "subtitle": "We offer a distinguished collection of the finest dates grown with care in Siwa Oasis and the Western Desert",
+      "viewAll": "View All Products",
+      "orderNow": "Order Now",
+      "medjool": {
+        "name": "Medjool Dates",
+        "description": "Luxurious dates with a rich taste and creamy texture, considered one of the finest date varieties in the world"
+      },
+      "siwa": {
+        "name": "Siwa Dates",
+        "description": "Golden dates characterized by moderate sweetness and unique flavor from Siwa Oasis"
+      },
+      "mazaq": {
+        "name": "Mazaq Dates",
+        "description": "Exceptional dates with a distinctive flavor and unforgettable taste, perfect for enjoying anytime"
+      }
+    },
+    "about": {
+      "title": "The Siwa Palm Story",
+      "farmImageAlt": "Siwa Palm Farms",
+      "farmLocation": "Our farms in Siwa Oasis, Egypt",
+      "paragraph1": "Siwa Palm is a leading agricultural company with decades of experience, specializing in growing Medjool and Siwa dates in Siwa Oasis and the Western Desert.",
+      "paragraph2": "Founded in 2001 as an Egyptian joint-stock company, we take quality as our motto in production and export. We have received numerous awards as the best producer of semi-dry Medjool dates, and we strive for global leadership.",
+      "values": {
+        "agriculture": {
+          "title": "Agriculture",
+          "description": "Long experience in growing crops, fruits, and vegetables"
+        },
+        "quality": {
+          "title": "Quality",
+          "description": "Commitment to quality standards in production and export"
+        },
+        "sustainability": {
+          "title": "Sustainability",
+          "description": "Investment in agriculture to support the economy and achieve sustainable development"
+        }
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We are here to answer your inquiries and fulfill your orders for our premium products",
+      "info": {
+        "title": "Contact Information",
+        "address": "Siwa Oasis, Matrouh, Egypt"
+      },
+      "followUs": "Follow Us",
+      "form": {
+        "title": "Send a Message",
+        "name": "Name",
+        "email": "Email",
+        "message": "Your Message",
+        "send": "Send"
+      }
+    },
+    "footer": {
+      "rights": "All rights reserved."
+    },
+    "gallery": {
+      "title": "Our Gallery",
+      "subtitle": "Explore the beauty of our farms and the quality of our products through these images",
+      "viewMore": "View More"
+    }
+  },
+  "Products": {
+    "title": "Our Premium Dates",
+    "subtitle": "Explore our collection of the finest dates grown with care in the Egyptian oases",
+    "searchPlaceholder": "Search for products...",
+    "viewProduct": "View Product",
+    "noResults": "No products found",
+    "tryDifferentSearch": "Please try a different search term",
+    "clearSearch": "Clear Search",
+    "medjool": {
+      "name": "Medjool Dates",
+      "description": "Luxurious dates with a rich taste and creamy texture"
+    },
+    "siwa": {
+      "name": "Siwa Dates",
+      "description": "Golden dates with moderate sweetness and unique flavor"
+    },
+    "mazaq": {
+      "name": "Mazaq Dates",
+      "description": "Exceptional dates with a distinctive flavor and unforgettable taste"
+    }
+  },
+  "ProductDetail": {
+    "backToProducts": "Back to Products",
+    "nutritionalInfo": "Nutritional Information",
+    "calories": "Calories",
+    "protein": "Protein",
+    "carbs": "Carbohydrates",
+    "fiber": "Fiber",
+    "orderNow": "Order Now",
+    "unit": "kg",
+    "medjool": {
+      "name": "Medjool Dates",
+      "description": "Luxurious dates with a rich taste and creamy texture",
+      "longDescription": "Medjool dates are known as the 'king of dates' for their exceptional size, soft texture, and rich caramel-like flavor. Our Medjool dates are carefully harvested and packaged to preserve their natural moisture and sweetness, making them a perfect healthy snack or gourmet ingredient."
+    },
+    "siwa": {
+      "name": "Siwa Dates",
+      "description": "Golden dates with moderate sweetness and unique flavor",
+      "longDescription": "Siwa dates are a traditional Egyptian variety grown in the historic Siwa Oasis. They have a distinctive golden color, moderate sweetness, and a unique flavor profile that reflects the mineral-rich soil of the oasis. These dates are perfect for daily consumption and cooking."
+    },
+    "mazaq": {
+      "name": "Mazaq Dates",
+      "description": "Exceptional dates with a distinctive flavor and unforgettable taste",
+      "longDescription": "Mazaq dates are a special variety known for their exceptional taste balance between sweetness and complexity. With a slightly firmer texture than Medjool dates, they offer a unique eating experience and are versatile for both snacking and culinary applications."
+    },
+    "orderForm": {
+      "title": "Place Your Order"
+    }
+  },
+  "OrderForm": {
+    "name": "Full Name",
+    "company": "Company Name",
+    "location": "Location",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "dateType": "Date Type",
+    "amount": "Amount",
+    "optional": "optional",
+    "submit": "Submit Order",
+    "submitting": "Submitting...",
+    "cancel": "Cancel",
+    "errors": {
+      "nameRequired": "Name is required",
+      "companyRequired": "Company name is required",
+      "locationRequired": "Location is required",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Please enter a valid Egyptian phone number (+20XXXXXXXXXX)",
+      "amountRequired": "Amount is required"
+    },
+    "success": {
+      "title": "Order Submitted Successfully!",
+      "message": "Thank you for your order. We will contact you shortly to confirm the details."
+    }
+  },
+  "Gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "A visual journey through our farms, production process, and premium dates",
+    "categories": {
+      "all": "All Photos",
+      "farms": "Our Farms",
+      "products": "Products",
+      "production": "Production Process"
+    },
+    "noResults": "No images found for this category",
+    "backToHome": "Back to Home"
+  }
+}
+
